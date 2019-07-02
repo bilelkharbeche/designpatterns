@@ -1,6 +1,6 @@
 package fr.diginamic.factory;
 
-public abstract class ObjectConnecte {
+public abstract class ObjectConnecte implements Chargeable {
 
 	/** limiteVolts : int */
 	private int limiteVolts;
